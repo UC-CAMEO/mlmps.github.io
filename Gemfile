@@ -3,6 +3,4 @@
 source "https://rubygems.org"
 gemspec
 
-gem "academic-jekyll-theme"
-theme: academic-jekyll-theme
-$ bundle
+$ gem install academic-jekyll-theme
