@@ -1,0 +1,12 @@
+menu:
+- {name: 'people', url: '/people'}
+- {name: 'publications', url: '/publications'}
+- {name: 'contact', url: '/contact'}
+
+people:
+- {name: 'Mengyang Gu', title: 'title', department: 'Statistics and Applied Probability', institution: 'University of California Santa Barbara', email: 'test@ucsb.edu', image: 'assets/img/primary-investigator.jpg'}
+- {name: 'Sui Tang', title: 'title', department: 'Mathematics', institution: 'University of California Santa Barbara',email: 'test@ucsb.edu', image: 'assets/img/lab-technician.jpg'}
+- {name: 'Erika McPhillips', title: 'Graduate Student', department: 'Statistics and Applied Probability', institution: 'University of California Santa Barbara', email: 'test@ucsb.edu', image: 'assets/img/graduate-student.jpg'}
+
+contacts:
+- {name: 'Mengyang Gu', title: 'Professor', department: 'Statistics and Applied Probability', institution: 'University of California Santa Barbara', email: 'test@ucsb.edu', image: 'assets/img/contact.jpg'}
