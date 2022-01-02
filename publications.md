@@ -1,5 +1,5 @@
 ---
-layout: publicatons
+layout: publications
 title: "Publications"
 ---
 
