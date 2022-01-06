@@ -5,7 +5,7 @@ menu:
 
 people:
 - {name: 'Mengyang Gu', title: 'Professor', department: 'Statistics and Applied Probability', institution: 'University of California Santa Barbara', email: 'test@ucsb.edu', image: 'assets/img/gu.jpg', url: 'Mengyang-Gu'}
-- {name: 'Sui Tang', title: 'Professor', department: 'Mathematics', institution: 'University of California Santa Barbara',email: 'test@ucsb.edu', image: 'assets/img/lab-technician.jpg', url: 'Sui-Tang'}
+- {name: 'Sui Tang', title: 'Professor', department: 'Mathematics', institution: 'University of California Santa Barbara',email: 'test@ucsb.edu', image: 'assets/img/lab-technician.jpg' width="50%", url: 'Sui-Tang'}
 - {name: 'Erika McPhillips', title: 'Graduate Student', department: 'Statistics and Applied Probability', institution: 'University of California Santa Barbara', email: 'test@ucsb.edu', image: 'assets/img/erika.png', url: 'Erika-McPhillips'}
 - {name: 'Xinyi Fang', title: 'Graduate Student', department: 'Statistics and Applied Probability', institution: 'University of California Santa Barbara', email: 'test@ucsb.edu', image: 'assets/img/graduate-student.jpg', url: 'Xinyi-Fang'}
 - {name: 'Xubo Liu', title: 'Graduate Student', department: 'Statistics and Applied Probability', institution: 'University of California Santa Barbara', email: 'test@ucsb.edu', image: 'assets/img/graduate-student.jpg', url: 'Xubo-Liu'}
