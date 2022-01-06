@@ -1,7 +1,7 @@
 menu:
 - {name: 'blog', url: '/blog'}
 - {name: 'people', url: '/people'}
-- {name: 'research product', url: '/publications'}
+- {name: 'research product', url: '/research_product'}
 - {name: 'contact', url: '/contact'}
 
 people:
