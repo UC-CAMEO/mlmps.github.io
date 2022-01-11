@@ -2,7 +2,7 @@ menu:
 - {name: 'blog', url: '/blog'}
 - {name: 'people', url: '/people'}
 - {name: 'research product', url: '/research_product'}
-- {name: 'contact', url: '/contact'}
+- {name: 'about', url: '/about'}
 
 people:
 - {name: 'Mengyang Gu', title: 'Professor', department: 'Statistics and Applied Probability', institution: 'University of California Santa Barbara', email: 'test@ucsb.edu', image: 'assets/img/gu.jpg', url: 'Mengyang-Gu'}
